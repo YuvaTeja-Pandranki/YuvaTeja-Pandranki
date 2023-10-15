@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yuvatejapandranki@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aEYwGzCetmcO5TdieoSvGQVDRn3fObxS/view?usp=sharing](https://drive.google.com/file/d/1aEYwGzCetmcO5TdieoSvGQVDRn3fObxS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M7Kp-J6gbl_sm_Ouvttcsm1NaYVFvt1b/view?usp=sharing](https://drive.google.com/file/d/1M7Kp-J6gbl_sm_Ouvttcsm1NaYVFvt1b/view?usp=sharing)
 
 - ⚡ Fun fact **Alexa is always listening to your conversations. Alexa stores all of your dialogue history in the cloud to improve the Alexa experience.**
 
