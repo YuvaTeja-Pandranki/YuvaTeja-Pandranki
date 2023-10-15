@@ -1,13 +1,10 @@
-<div align="center" >
-   <a href="https://github.com/YuvaTeja-Pandranki">
-   <img width=80% src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" href="https://github.com/YuvaTeja-Pandranki" /></a>
-</div>
-<h3 align="center">Computer Science Master's student</h3>
-
-<div align="center" >
-   <a href="https://github.com/YuvaTeja-Pandranki">
-   <img width=80% src="" href="https://github.com/YuvaTeja-Pandranki" /></a>
-</div>
+<table>
+   <tr>
+      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" alt="https://github.com/YuvaTeja-Pandranki"></td>
+      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/computer.gif" alt="https://github.com/YuvaTeja-Pandranki"></td>
+   </tr>
+</table>
+<h3 align="center">Computer Science Master's Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvateja-pandranki&label=Profile%20views&color=0e75b6&style=flat" alt="yuvateja-pandranki" /> </p>
 
