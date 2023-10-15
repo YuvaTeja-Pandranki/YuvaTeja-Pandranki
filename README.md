@@ -1,3 +1,8 @@
+<div align="center" >
+   <a href="https://github.com/YuvaTeja-Pandranki">
+   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/YuvaTeja-Pandranki" /></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Yuva Teja Pandranki</h1>
 <h3 align="center">Computer Science Master's student</h3>
 
