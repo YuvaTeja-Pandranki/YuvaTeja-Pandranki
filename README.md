@@ -1,6 +1,6 @@
 <table>
    <tr>
-      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" alt="https://github.com/YuvaTeja-Pandranki" height="300" width="500"></td>
+      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" alt="https://github.com/YuvaTeja-Pandranki" height="300" width="400"></td>
       <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/computer.gif" alt="https://github.com/YuvaTeja-Pandranki"></td>
    </tr>
 </table>
