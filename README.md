@@ -1,6 +1,9 @@
-<div align="center">
-  <img height="160" src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/computer.gif"  />
-</div>
+<table>
+   <tr>
+      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" alt="https://github.com/YuvaTeja-Pandranki" height="300" width="500"></td>
+      <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/computer.gif" alt="https://github.com/YuvaTeja-Pandranki"></td>
+   </tr>
+</table>
 
 ###
 
@@ -79,9 +82,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
@@ -97,11 +97,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvaTeja-Pandranki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvaTeja-Pandranki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="1000" height="250" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/output/snake.svg" alt="Snake animation" />
+<div align=center>
+   <a href="https://github.com/yuvateja-pandranki">
+   <img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/snake.svg" alt="zumrudu-anka" width=200% height=100%/>
+   </a>
+</div>
 
 ###
