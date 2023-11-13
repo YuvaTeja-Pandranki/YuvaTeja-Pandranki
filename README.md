@@ -1,23 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="smoke.css">
-</head>
-<section>
-        <video src="smoke.mp4" autoplay muted></video>
-        <h1>
-            <span>Y</span>
-            <span>U</span>
-            <span>V</span>
-            <span>A</span>
-            <span>T</span>
-            <span>E</span>
-            <span>J</span>
-            <span>A</span>
-        </h1>
-</section>
-
-
 <table>
    <tr>
       <td><img src="https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/action%20(1).gif" alt="https://github.com/YuvaTeja-Pandranki" height="300" width="400"></td>
