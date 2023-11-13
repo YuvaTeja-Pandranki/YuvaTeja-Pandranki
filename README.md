@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="[smoke.css](https://github.com/YuvaTeja-Pandranki/YuvaTeja-Pandranki/blob/main/smoke.css)">
+    <link rel="stylesheet" href="smoke.css">
 </head>
 <section>
         <video src="smoke.mp4" autoplay muted></video>
