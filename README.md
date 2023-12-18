@@ -86,7 +86,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><img src="fire.webp" width="30px">  My Stats :</h3>
 
 ###
 
