@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey, there <img src="wave.gif" width="30px"></h1> 
 
 ###
 
