@@ -91,11 +91,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YuvaTeja-Pandranki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="40%"  alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvaTeja-Pandranki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=YuvaTeja-Pandranki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="350"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvaTeja-Pandranki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="268"  alt="languages graph"  />
 </div>
 
 ###
+
 
 <div align=center>
    <a href="https://github.com/yuvateja-pandranki">
