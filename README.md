@@ -32,7 +32,7 @@
 ###
 
 <h3 align="left"><img src="laptop.webp" width="30px"> About Me<br><br>
-- <a href="https://d1c5q1k390sx1c.cloudfront.net/" target="blank">Yuvatejapandranki.com</a>
+- <a href="https://d1c5q1k390sx1c.cloudfront.net/" target="blank">Website</a>
 
 
 
