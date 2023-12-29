@@ -31,11 +31,12 @@
 
 ###
 
-<h3 align="left"><img src="laptop.webp" width="30px">  About Me</h3>
+<h3 align="left"><img src="laptop.webp" width="30px"> About Me<br><br>
+- <a href="https://d1c5q1k390sx1c.cloudfront.net/" target="blank">Yuvatejapandranki.com</a>
 
-###
 
-<p align="left">I'm Yuva Teja Pandranki <br><br>- 🔭 I’m Computer Science Masters Student...<br>- 📚 I'm currently learning AWS ...<br>- 📄 Know about my experiences https://drive.google.com/file/d/1M7Kp-J6gbl_sm_Ouvttcsm1NaYVFvt1b/view</p>
+
+<p align="left"><br>- 🔭 I’m Computer Science Masters Student...<br>- 📚 I'm currently learning AWS ...</p>
 
 ###
 
