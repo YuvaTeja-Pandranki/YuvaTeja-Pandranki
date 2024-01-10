@@ -32,12 +32,12 @@
 ###
 
 <h3 align="left"><img src="laptop.webp" width="30px"> About Me<br><br>
-- <a href="resume.yuvatejapandranki.online" target="blank">Website</a>
+- (https://resume.yuvatejapandranki.online)
 
 
 
 <p align="left"><br>- 🔭 I’m Computer Science Masters Student...<br>- 📚 I'm currently learning AWS ...</p>
-<a href="https://yuvateja-pandranki.github.io/resume/" target="blank"><kbd> <br> Resume <br> </kbd></a>
+<p>- For resume click this button --------> <a href="https://yuvateja-pandranki.github.io/resume/" target="blank"><kbd> <br> Resume  </kbd></a> <br></p>
 
 ###
 
