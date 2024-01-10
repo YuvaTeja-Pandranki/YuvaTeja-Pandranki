@@ -91,14 +91,17 @@
 <h3 align="left"><img src="fire.webp" width="30px">  My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YuvaTeja-Pandranki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="350"  alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvaTeja-Pandranki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="268"  alt="languages graph"  />
+<div align= "center">
+<a href="https://github.com/YuvaTeja-Pandranki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaTeja-Pandranki&theme=light&count_private=true&layout=compact" width="205" alt="Yuva's most used languages" />
+</a>
+<!-- <a href="https://github.com/YuvaTeja-Pandranki">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvaTeja-Pandranki&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Yuva's github stats"/>
+</a> -->
 </div>
 
-###
 
+###
 
 <div align=center>
    <a href="https://github.com/yuvateja-pandranki">
