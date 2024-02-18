@@ -17,6 +17,9 @@
   <a href="https://www.instagram.com/yuvateja_pandranki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+   <a href="https://yuvatejapandranki.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blogger&logo=Blogger&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
