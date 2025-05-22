@@ -40,7 +40,7 @@
 
 
 <p align="left"><br>- 🔭 I’m Computer Science Masters Student...<br>- 📚 I'm currently learning AWS ...</p>
-<p>- For resume click this button --------> <a href="https://yuvateja-pandranki.github.io/resume/" target="blank"><kbd> <br> Resume  </kbd></a> <br></p>
+<!-- <p>- For resume click this button <a href="https://yuvateja-pandranki.github.io/resume/" target="blank"><kbd> <br> Resume  </kbd></a> <br></p> -->
 
 ###
 
