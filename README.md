@@ -41,6 +41,8 @@
 
 <p align="left"><br>- 🔭 I’m Computer Science Masters Student...<br>- 📚 I'm currently learning AWS ...</p>
 <!-- <p>- For resume click this button <a href="https://yuvateja-pandranki.github.io/resume/" target="blank"><kbd> <br> Resume  </kbd></a> <br></p> -->
+<p>- For resume click this button <a href="https://drive.google.com/file/d/1tD9VI8YcZJrJ9R9QpHviq8CqHh1To314/view?usp=sharing" target="blank"><kbd> <br> Resume  </kbd></a> <br></p>
+
 
 ###
 
